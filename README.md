@@ -1,2 +1,2 @@
 # git-github
-Initial git-github tests
+Initial git-github test.
